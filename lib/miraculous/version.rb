@@ -1,0 +1,3 @@
+module Miraculous
+  VERSION = "0.0.1"
+end
