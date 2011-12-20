@@ -16,5 +16,5 @@ Gem::Specification.new do |gem|
   gem.version       = Miraculous::VERSION
 
   gem.add_runtime_dependency "rails", "~> 3.1.0"
-  gem.add_runtime_dependency "rspec", "~> 2.7.0"
+  gem.add_development_dependency "rspec", "~> 2.7.0"
 end
